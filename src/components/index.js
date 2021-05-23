@@ -1,4 +1,4 @@
-import Action from './Action';
+import Action from './Action2';
 import Announcement from './Announcement';
 import BlogFeedItemFilter from './BlogFeedItemFilter';
 import BlogFeedSection from './BlogFeedSection';
